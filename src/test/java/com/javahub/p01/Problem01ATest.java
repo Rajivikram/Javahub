@@ -3,11 +3,11 @@ package com.javahub.p01;
 import org.junit.Test;
 
 /**
- * Created by Rajii on 14-09-2016.
+ * Created by RAJRA on 9/14/2016.
  */
 public class Problem01ATest {
     @Test
-    public  void  sort() {
-        new Problem01A().sort();
+    public void testSort() {
+        new  Problem01A().sort();
     }
 }

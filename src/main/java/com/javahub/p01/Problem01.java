@@ -26,8 +26,5 @@ public class Problem01 {
             System.out.println( f.getFname() + " "+ f.getFsize());
         }
 
-            }
-        }
-
-
-
+    }
+}

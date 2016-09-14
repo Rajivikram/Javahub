@@ -45,5 +45,8 @@ public class Fruit implements Comparator<Fruit> ,Comparable<Fruit> {
         return fruit.fsize - fruit1.fsize;
     }
 
-
+    @Override
+    public String toString() {
+        return this.getFname() + " " + this.getFsize();
+    }
 }
