@@ -11,6 +11,7 @@ public class Fruit implements Comparator<Fruit> ,Comparable<Fruit> {
     private String fname;
     private int fsize;
 
+
     Fruit() {
 
     }
@@ -18,6 +19,7 @@ public class Fruit implements Comparator<Fruit> ,Comparable<Fruit> {
     public Fruit(String fname, int fsize) {
         this.fname = fname;
         this.fsize = fsize ;
+
     }
 
     public String getFname() {
