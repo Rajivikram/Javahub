@@ -1,4 +1,4 @@
-package com.javahub.hackers;
+package com.javahub.codeBat;
 
 import java.util.Scanner;
 
